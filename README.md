@@ -1,1 +1,1 @@
-# HasnatCET.Calculator
+# Calculator
